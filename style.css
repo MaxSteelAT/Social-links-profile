@@ -71,14 +71,3 @@ h3 {
   background-color: hsl(75, 94%, 57%);
   color: black;
 }
-
-.attribution {
-  width: 100%;
-  margin-top: 20px;
-  font-size: 10px;
-
-
-  & a {
-    color: hsl(75, 94%, 57%)
-  }
-}
